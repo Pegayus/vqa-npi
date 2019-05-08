@@ -1,5 +1,5 @@
 # VQA-NPI
-This repository has been built on top of [this](https://github.com/siddk/npi) implementation of NPI for simple addition task. Everything under the folder task/vqa is written by me and the rest are modified version of the mentioned repository. Note that I use Python 3.5 and tensorflow 1.12.0 (the mentioned repo is in Python 2 and tensorflow 0.12). In creation of this repo, these two resources have been greatly helpful in obtaining and processing data:<br/>
+This repository has been built on top of [this](https://github.com/siddk/npi) implementation of NPI for simple addition task. Everything under the folder task/vqa is written by me and the rest are modified version of the mentioned repository. Note that I use Python 3.5 and tensorflow 1.12.0 (the mentioned repo is in Python 2 and tensorflow 0.12). In creation of this repo, these two resources have been greatly helpful for obtaining and processing data:<br/>
 1- https://github.com/kexinyi/ns-vqa  <br/>
 2- https://github.com/facebookresearch/clevr-dataset-gen <br/>
 ## RUN
