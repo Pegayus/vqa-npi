@@ -25,7 +25,7 @@ ABAL_THR = 1
 DATA_PATH = "tasks/vqa/data/train_query.pickle"
 LOG_PATH = "tasks/vqa/log/"
 CKPT_PATH = "tasks/vqa/log/model.ckpt"
-SAVE_PATH = "C:/Users/pegah/Desktop/"
+SAVE_PATH = "ablation/"
 
 
 
