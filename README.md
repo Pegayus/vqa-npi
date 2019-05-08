@@ -8,6 +8,7 @@ Please make sure that you are haveing the same version of all packages as specif
 * Go to main.py under the main directory and adjust the flags according to the purpose (trainin, testing, validation)
 * Run main.py <br/>
 It is recommended to only run one module at a time (one flag = TRUE). If you wish to have more than one flag = TRUE at the time, you need to disable the tf.sessions from each modlue and pass it as an input. For example, if you would like to run the test directly after training, you need to go to tasks/vqa/test_direct.py and tasks/vqa/train.py and comment the tensorflow session, add "sess" as input and create the session in main.py to pass it to the both modules. <br/>
+** The "evaluation" is a script that walks you through the internal process of NPI. You will interact with environemnt for each step (you need to press "y" or "Y" to move forward) and see the updates to the environemnt and the predictions by the network. The idea has been borrowed from https://github.com/siddk/npi.
 ## Reproducing Experiments
 For obtaining the results in the report, changes need to be made in either of these directories: main.py, train.py, test_direct.py, test.py, npi.py, vqa.py.
 ### General Results
