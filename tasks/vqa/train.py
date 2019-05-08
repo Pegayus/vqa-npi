@@ -25,7 +25,7 @@ DATA_PATH = "tasks/vqa/data/train_query.pickle"
 DATA_PATH2 = "tasks/vqa/data/train_count.pickle"
 DATA_PATH3 = "tasks/vqa/data/train_exist.pickle"
 LOG_PATH = "tasks/vqa/log/"
-SAVE_PATH = "C:/Users/pegah/Desktop/"
+SAVE_PATH = "general/acc/"
 
 def train_vqa(epochs, verbose=0):
     """
