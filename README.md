@@ -17,3 +17,7 @@ Go to tasks/vqa/train.py and change the dataset you want to use for training (tr
 Changes to be made in npi.py (for weight, learning rate, regularization and number of layers) and vqa.py (number of dense layers in NPI environemnt encoder).
 ### Ablation Study
 Go to tasks/vqa/test_direct.py and change the threshold (ABAL_THR) for a specific probability of adding noise. For threshold = 1, you will run the test normally.
+
+#### To Do
+* upload the csv file for intital data construction.
+* re-structure the results/outputs.
