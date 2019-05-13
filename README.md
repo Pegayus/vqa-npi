@@ -21,4 +21,5 @@ Go to tasks/vqa/test_direct.py and change the threshold (ABAL_THR) for a specifi
 
 #### To Do
 * upload the csv file for intital data construction.
-* re-structure the results/outputs.
+* re-structure the results/outputs speically the images.
+* Upload the report.
