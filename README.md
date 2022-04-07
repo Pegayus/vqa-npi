@@ -20,6 +20,6 @@ Changes to be made in npi.py (for weight, learning rate, regularization and numb
 Go to tasks/vqa/test_direct.py and change the threshold (ABAL_THR) for a specific probability of adding noise. For threshold = 1, you will run the test normally.
 
 #### To Do
-* upload the csv file for intital data construction.
-* re-structure the results/outputs speically the images.
-* Upload the report.
+* Upload the csv file for intital data construction.
+* Re-structure the results/outputs, speically the images.
+* ~~Upload the report.~~
